@@ -2,7 +2,7 @@
 ### Hi there, I'm Amom 
 
 
-## Eu sou Pai, e Desenvolvedor Jr 👋
+## Eu sou Pai, e Desenvolvedor Full Stack Python Jr 👋
 
 - 📚 Eu estudo tudo atualmente 🤣
 
