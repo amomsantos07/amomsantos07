@@ -13,8 +13,7 @@
 
 [![LinKedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/amom-santos-de-almeida-718618209/)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/dev_python_security/)
+
 
 ![amomsantos GitHub stats](https://github-readme-stats.vercel.app/api?username=amomsantos&show_icons=true&theme=dracula)
 
