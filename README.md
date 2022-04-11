@@ -27,6 +27,6 @@
     </div><br/>
     
 
-- 📚 Estudando cibersegurança
+- 📚 Studying Java 
 
 
