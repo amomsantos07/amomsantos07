@@ -3,7 +3,7 @@
 
 
 
-## Eu sou Pai e Desenvolvedor Python Jr 👋
+## Eu sou Pai e Desenvolvedor Python 👋
 
 
 
