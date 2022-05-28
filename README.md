@@ -27,6 +27,6 @@
     </div><br/>
     
 
-- 📚 Studying Java 
+- 📚 Studying Java and PHP
 
 
