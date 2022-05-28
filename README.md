@@ -15,7 +15,7 @@
 )](https://www.linkedin.com/in/amom-santos-de-almeida-718618209/)
 
 
-![amomsantos GitHub stats](https://github-readme-stats.vercel.app/api?username=amomsantos&show_icons=true&theme=dracula)
+![amomsantos GitHub stats](https://github-readme-stats.vercel.app/api?username=amomsantos07&show_icons=true&theme=dracula)
 
 ## Tecnologias que utilizo - 🚀 Skills
 
