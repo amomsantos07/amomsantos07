@@ -3,7 +3,7 @@
 
 
 
-## Eu sou Pai e Desenvolvedor Python 👋
+## Eu sou Pai e Desenvolvedor Full Stack 👋
 
 
 
