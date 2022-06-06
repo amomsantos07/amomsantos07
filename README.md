@@ -30,6 +30,5 @@
 - 📚 Studying Java and PHP
 
 
-.github/workflows/profile-3d.yml
 
 
