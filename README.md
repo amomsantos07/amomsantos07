@@ -29,6 +29,8 @@
 
 - 📚 Studying Java and PHP
 
+node_modules/.bin/ts-node src/index.ts amomsantos07
+
 
 
 
