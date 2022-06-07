@@ -1,11 +1,22 @@
 <h1 align="center">Hi 👋, I'm Amom Santos</h1>
-<h3 align="center">A passionate student full stack developer and pentest</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amomsantos07&label=Profile%20views&color=0e75b6&style=flat" alt="amomsantos07" /> </p>
+<!-- photos -->
+<p><img align="left" width="300" src="https://scontent.fpmw5-1.fna.fbcdn.net/v/t39.30808-6/286674108_553209596499278_7104325499312467447_n.jpg?stp=dst-jpg_p526x296&_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHX6hXb5a2mQRNhi60gzdsyrISTrbtJ5yashJOtu0nnJi_BfU-p4i34WKBIRSZ3ojzOaU5f8tV-E9sP2gM8LKgV&_nc_ohc=8qhWmMkkjacAX9l5qHF&_nc_ht=scontent.fpmw5-1.fna&oh=00_AT8oSfFaU0NrVH_4h3bes-POzsXiFuGAn0Sjtdvhotc3QA&oe=62A3D9D2" style="vertical-align:middle;margin:0px 50">
+<img align="rigth" width="300" src="https://scontent.fpmw5-1.fna.fbcdn.net/v/t39.30808-6/285998841_553209489832622_1020110351488552261_n.jpg?stp=dst-jpg_p526x296&_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeEyoD4-tM7H9UiVf2jX8EKTMBh2dvXdri4wGHZ29d2uLuIoIx4xShUKyZt3aqyumPp3Qir1VaE1dNQV77KKNbs2&_nc_ohc=0zVjSGyLApgAX9gkbQ5&_nc_ht=scontent.fpmw5-1.fna&oh=00_AT_n5Z8TS_kBKXQb5rYZ726Deg_A14mTAYe4hBSX_Oa0OQ&oe=62A51577" </p>
+
+<h2 align="center">A passionate student full stack developer and pentest</h2>
+
+<!-- gif animated -->
+<img align="right" alt="gif dev" width="400" src="https://c.tenor.com/azZCJ2YpsGgAAAAi/programming.gif">
+
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amomsantos07&label=Profile%20views&color=0e75b6&style=flat" alt="amomsantos07"></p>
 
 - 🌱 I’m currently learning **PHP | Python | JS | CyberSecurity**
 
-- 💬 Ask me about **Linux<>Penetration Testing**
+- 💬 Ask me about **Linux | Penetration Testing**
 
 - 📫 How to reach me **tisolutionpmw@gmail.com**
 
@@ -21,10 +32,74 @@
 <a href="https://discord.gg/Amom Santos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Amom Santos" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
+<!-- Badges used from https://github.com/klaasnicolaas/ColoredBadges -->
+<h2 align="center">My Tech Stack 🧰</h2>
+<p align="center">
+<a href="#">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/html.svg">
+</a>
+<a href="#">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/css3.svg">
+</a>
+<a href="https://getbootstrap.com/">
+    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://getbootstrap.com/">
+    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/laravel.svg" alt="laravel" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/js.svg">
+</a>   
+<a href="https://reactjs.org/">
+<img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/frameworks/react.svg" height="35" />
+</a>
+<a href="https://docs.oracle.com/en/java/">
+    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/java.svg">
+</a>
+<a href="https://www.php.net/docs.php">
+    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/php.svg">
+</a>
+<a href="https://docs.python.org/3/">
+    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/python.svg">
+</a>
 
+</p>
 
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amomsantos07&show_icons=true&locale=en" alt="amomsantos07" /></p>
+<h2 align="center">Languages and Tools</h2> 
+<p align="center">
+<a href="https://git-scm.com">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://github.com/amomsantos07">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/services/github.svg" alt="github" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://code.visualstudio.com/">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://code.visualstudio.com/">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/jetbrains_webstorm.svg" alt="vscode" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://code.visualstudio.com/">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/jetbrains_intellij.svg" alt="vscode" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://code.visualstudio.com/">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/eclipse.svg" alt="vscode" style="vertical-align:top; margin:4px">
+</a>
+</p>
 
+---
+
+<h2 align="center">My GitHub Stats <img src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif"/></h2>
+
+<p align="center"><img src="https://github.com/amomsantos07/amomsantos07/blob/main/ezgif.com-gif-maker.gif" alt="@amomsantos07 Gitub Skyline" width="600" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=amomsantos07&theme=dracula&show_icons=true" alt="amomsantos07" width="400" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=amomsantos07&theme=dracula&hide_border=false" alt ="amomsantos07" width="400" />
+</p>
+
+<p align="center"> <img src="https://github.com/arpanaditya/arpanaditya/blob/output/github-contribution-grid-snake.svg" width="700" /> </p>
+
+<h3 align="center">Thank you so much for coming here :pray:</h3>
