@@ -3,17 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amomsantos07&label=Profile%20views&color=0e75b6&style=flat" alt="amomsantos07" /> </p>
 
-- 🌱 I’m currently learning **Laravel|Django|PHP|Python|Java|CyberSecurity |Probably everything**
-
-- 👨‍💻 All of my projects are available at [404 ERROR|Building](404 ERROR|Building)
-
-- 📝 I regularly write articles on [I swear|Coming Soon](I swear|Coming Soon)
+- 🌱 I’m currently learning **PHP | Python | Java | CyberSecurity**
 
 - 💬 Ask me about **Linux Penetration Testing**
 
 - 📫 How to reach me **tisolutionpmw@gmail.com**
-
-- 📄 Know about my experiences [Just ask me](Just ask me)
 
 - ⚡ Fun fact **A little bit**
 
