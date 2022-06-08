@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amom Santos</h1>
+<p align="center"><h1 align="center">I Love My Kids ❤️</h1>
 
 <!-- photos -->
-<p><img align="left" width="300" src="https://scontent.fpmw5-1.fna.fbcdn.net/v/t39.30808-6/286674108_553209596499278_7104325499312467447_n.jpg?stp=dst-jpg_p526x296&_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHX6hXb5a2mQRNhi60gzdsyrISTrbtJ5yashJOtu0nnJi_BfU-p4i34WKBIRSZ3ojzOaU5f8tV-E9sP2gM8LKgV&_nc_ohc=8qhWmMkkjacAX9l5qHF&_nc_ht=scontent.fpmw5-1.fna&oh=00_AT8oSfFaU0NrVH_4h3bes-POzsXiFuGAn0Sjtdvhotc3QA&oe=62A3D9D2" style="vertical-align:middle;margin:0px 50">
-<img align="rigth" width="300" src="https://scontent.fpmw5-1.fna.fbcdn.net/v/t39.30808-6/285998841_553209489832622_1020110351488552261_n.jpg?stp=dst-jpg_p526x296&_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeEyoD4-tM7H9UiVf2jX8EKTMBh2dvXdri4wGHZ29d2uLuIoIx4xShUKyZt3aqyumPp3Qir1VaE1dNQV77KKNbs2&_nc_ohc=0zVjSGyLApgAX9gkbQ5&_nc_ht=scontent.fpmw5-1.fna&oh=00_AT_n5Z8TS_kBKXQb5rYZ726Deg_A14mTAYe4hBSX_Oa0OQ&oe=62A51577" </p>
+<p align="center"> <img align="center" width="300" src="https://scontent.fpmw5-1.fna.fbcdn.net/v/t39.30808-6/286674108_553209596499278_7104325499312467447_n.jpg?stp=dst-jpg_p526x296&_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHX6hXb5a2mQRNhi60gzdsyrISTrbtJ5yashJOtu0nnJi_BfU-p4i34WKBIRSZ3ojzOaU5f8tV-E9sP2gM8LKgV&_nc_ohc=8qhWmMkkjacAX9l5qHF&_nc_ht=scontent.fpmw5-1.fna&oh=00_AT8oSfFaU0NrVH_4h3bes-POzsXiFuGAn0Sjtdvhotc3QA&oe=62A3D9D2">
+<img align="center" width="300" src="https://scontent.fpmw5-1.fna.fbcdn.net/v/t39.30808-6/285998841_553209489832622_1020110351488552261_n.jpg?stp=dst-jpg_p526x296&_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeEyoD4-tM7H9UiVf2jX8EKTMBh2dvXdri4wGHZ29d2uLuIoIx4xShUKyZt3aqyumPp3Qir1VaE1dNQV77KKNbs2&_nc_ohc=0zVjSGyLApgAX9gkbQ5&_nc_ht=scontent.fpmw5-1.fna&oh=00_AT_n5Z8TS_kBKXQb5rYZ726Deg_A14mTAYe4hBSX_Oa0OQ&oe=62A51577"</p>
 
-<h2 align="center">A passionate student full stack developer and pentest</h2>
+<h2 align="center"></h2>
 
 <!-- gif animated -->
 <img align="right" alt="gif dev" width="400" src="https://c.tenor.com/azZCJ2YpsGgAAAAi/programming.gif">
