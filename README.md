@@ -102,4 +102,4 @@
 
 <p align="center"> <img src="https://github.com/arpanaditya/arpanaditya/blob/output/github-contribution-grid-snake.svg" width="700" /> </p>
 
-<h3 align="center">Goodbye 😭</h3>
+<h3 align="center">Goodbye 👊</h3>
