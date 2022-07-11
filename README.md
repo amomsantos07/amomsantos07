@@ -66,9 +66,9 @@
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/php.svg">
 </a>
 
-<a href="https://docs.python.org/3/">
+<!-- a href="https://docs.python.org/3/">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/python.svg">
-</a>
+</a -->
 
 </p>
 
