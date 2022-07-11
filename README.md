@@ -2,8 +2,11 @@
 <p align="center"><h1 align="center">I Love My Kids ❤️</h1>
 
 <!-- photos -->
-<p align="center"> <img align="center" width="300" src="https://scontent.ffor8-1.fna.fbcdn.net/v/t39.30808-6/286674108_553209596499278_7104325499312467447_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=epTNhEWyIsMAX-IpUdG&_nc_ht=scontent.ffor8-1.fna&oh=00_AT-3P7HxFqbxGNBB49yaLlebf7Md_NlaYTRfOiyWV32s9A&oe=62B5A612">
-<img align="center" width="300" src="https://scontent.ffor8-1.fna.fbcdn.net/v/t39.30808-6/285998841_553209489832622_1020110351488552261_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_ohc=UX6eGoCqDZMAX_M9G1O&_nc_ht=scontent.ffor8-1.fna&oh=00_AT_Z1c9rwsFJG_AyOZLJmLC5MLKWmNvbJtRsoMtQYY651w&oe=62B6E1B7"</p>
+<p align="center"> <img align="center" width="300" src="photo-Julie.jpg">
+<img align="center" width="300" src="photo-Henri.jpg"</p>
+
+
+
 
 <h2 align="center"></h2>
 
