@@ -55,11 +55,20 @@
 </a -->
 
 <a href="https://reactjs.org/">
-<img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/frameworks/react.svg" width="85.6"  style="vertical-align:top; margin:4px" />
+<img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/frameworks/react.svg" width="85.6" alt="react">
 </a>
+
+<a href="https://angular.io/">
+<img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/frameworks/angular.svg" width="101.8" alt="angular">
+</a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/js.svg">
-</a>   
+</a>
+
+<a href="https://docs.python.org/3/">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/python.svg">
+</a>
 
 <!-- JAVA UPCOMING <a href="https://docs.oracle.com/en/java/">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/java.svg"></a> -->
@@ -68,9 +77,7 @@
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/php.svg">
 </a> -->
 
-<a href="https://docs.python.org/3/">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/python.svg">
-</a>
+
 
 </p>
 
