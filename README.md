@@ -46,12 +46,14 @@
 <a href="#">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/css3.svg">
 </a>
-<a href="https://getbootstrap.com/">
+<!-- a href="https://getbootstrap.com/">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap">
-</a>
-<a href="https://getbootstrap.com/">
+</a -->
+
+<!-- I DON'T HAVE INTERESTED a href="https://getbootstrap.com/">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/laravel.svg" alt="laravel">
-</a>
+</a -->
+
 <a href="https://reactjs.org/">
 <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/frameworks/react.svg" width="85.6"  style="vertical-align:top; margin:4px" />
 </a>
@@ -62,13 +64,13 @@
 <!-- JAVA UPCOMING <a href="https://docs.oracle.com/en/java/">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/java.svg"></a> -->
 
-<a href="https://www.php.net/docs.php">
+<!-- IN THE FUTURE <a href="https://www.php.net/docs.php">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/php.svg">
-</a>
+</a> -->
 
-<!-- a href="https://docs.python.org/3/">
+<a href="https://docs.python.org/3/">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/python.svg">
-</a -->
+</a>
 
 </p>
 
