@@ -54,13 +54,14 @@
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/laravel.svg" alt="laravel">
 </a -->
 
-<!-- a href="https://reactjs.org/">
-<img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/frameworks/react.svg" width="85.6" alt="react">
-</a -->
+<a href="https://www.djangoproject.com/">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" width="85.6" alt="Django">
+</a>
 
 <a href="https://angular.io/">
 <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/frameworks/angular.svg" width="101.8" alt="angular">
 </a>
+
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/js.svg">
