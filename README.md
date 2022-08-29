@@ -54,9 +54,9 @@
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/laravel.svg" alt="laravel">
 </a -->
 
-<a href="https://reactjs.org/">
+<!-- a href="https://reactjs.org/">
 <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/frameworks/react.svg" width="85.6" alt="react">
-</a>
+</a -->
 
 <a href="https://angular.io/">
 <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/frameworks/angular.svg" width="101.8" alt="angular">
