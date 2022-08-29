@@ -55,7 +55,7 @@
 </a -->
 
 <a href="https://www.djangoproject.com/">
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" width="85.6" alt="Django">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" width="111" alt="Django">
 </a>
 
 <a href="https://angular.io/">
