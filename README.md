@@ -111,9 +111,9 @@
 <h2 align="center">My GitHub Stats <img src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif"/></h2>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=amomsantos07&theme=dracula&show_icons=true" alt="amomsantos07" width="300" />
-<img src="http://github-readme-streak-stats.herokuapp.com?user=amomsantos07&theme=dracula&hide_border=false" alt ="amomsantos07" width="" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=amomsantos07&theme=dracula&hide_border=false" alt ="amomsantos07" width="100" />
 </p>
 
-<p align="center"> <img src="https://github.com/arpanaditya/arpanaditya/blob/output/github-contribution-grid-snake.svg" width="300" /> </p>
+<p align="center"> <img src="https://github.com/arpanaditya/arpanaditya/blob/output/github-contribution-grid-snake.svg" width="200" /> </p>
 
 <h3 align="center">Goodbye 👊</h3>
