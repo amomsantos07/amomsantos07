@@ -50,7 +50,7 @@
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap">
 </a -->
 
-< href="https://getbootstrap.com/">
+<a href="https://getbootstrap.com/">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/laravel.svg" alt="laravel">
 </a>
 
