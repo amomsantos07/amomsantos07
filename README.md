@@ -50,9 +50,9 @@
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap">
 </a -->
 
-<!-- I DON'T HAVE INTERESTED a href="https://getbootstrap.com/">
+< href="https://getbootstrap.com/">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/laravel.svg" alt="laravel">
-</a -->
+</a>
 
 <a href="https://www.djangoproject.com/">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" width="111" alt="Django">
@@ -74,9 +74,9 @@
 <!-- JAVA UPCOMING <a href="https://docs.oracle.com/en/java/">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/java.svg"></a> -->
 
-<!-- IN THE FUTURE <a href="https://www.php.net/docs.php">
+<a href="https://www.php.net/docs.php">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/php.svg">
-</a> -->
+</a>
 
 
 
