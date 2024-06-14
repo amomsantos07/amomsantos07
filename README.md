@@ -46,9 +46,9 @@
 <a href="#">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/css3.svg">
 </a>
-<!-- a href="https://getbootstrap.com/">
+<a href="https://getbootstrap.com/">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap">
-</a -->
+</a>
 
 <a href="https://getbootstrap.com/">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/laravel.svg" alt="laravel">
@@ -58,9 +58,9 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" width="111" alt="Django">
 </a>
 
-<a href="https://angular.io/">
+<!--a href="https://angular.io/">
 <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/frameworks/angular.svg" width="101.8" alt="angular">
-</a>
+</a -->
 
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
