@@ -102,8 +102,8 @@
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/jetbrains_intellij.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </a>
 <a href="https://code.visualstudio.com/">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/eclipse.svg" alt="vscode" style="vertical-align:top; margin:4px">
-</a>
+<!-- img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/eclipse.svg" alt="vscode" style="vertical-align:top; margin:4px">
+</a -->
 </p>
 
 ---
