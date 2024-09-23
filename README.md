@@ -75,7 +75,7 @@
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/java.svg"></a> -->
 
 <a href="https://www.php.net/docs.php">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/php.svg">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/php.svg" alt="git" style="vertical-align:top; margin:4px">
 </a>
 
 
