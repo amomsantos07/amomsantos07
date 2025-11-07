@@ -3,7 +3,7 @@
 
 <!-- photos -->
 <p align="center">
-  <img width="300" src="photo-Julie.jpg" alt="Julie">
+  <img width="300" src="photo-JulieAA.jpg" alt="Julie">
   <img width="300" src="photo-Henri.jpg" alt="Henri">
 </p>
 
@@ -60,10 +60,10 @@
 
 <h2 align="center">My GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amomsantos07&theme=dracula&show_icons=true" alt="GitHub Stats" width="412" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=amomsantos07&theme=dracula&hide_border=false" alt="GitHub Streak" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=amomsantos07&theme=dracula&show_icons=true" alt="GitHub Stats" width="410" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=amomsantos07&theme=dracula&hide_border=false" alt="GitHub Streak" width="434" />
 </p>
+
 
 ---
 
