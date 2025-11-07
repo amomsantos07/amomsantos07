@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amom Santos</h1>
-<h2 align="center">I Love My Kids ❤️</h2>
+<h2 align="center">I Love My Family ❤️</h2>
 
 <!-- photos -->
 <p align="center">
-  <img width="300" src="photo-JulieAA.jpg" alt="Julie">
-  <img width="300" src="photo-Henri.jpg" alt="Henri">
+  <img width="300" src="" alt="">
 </p>
 
 <!-- gif animated -->
