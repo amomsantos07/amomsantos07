@@ -20,16 +20,16 @@
 - ⚡ Fun fact **A little bit**
 
 ---
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://codepen.io/amomsantos07" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Codepen" width="28" height="28" style="margin-right:8px"></a>
-  <a href="https://dev.to/amomsantos07" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" width="28" height="28" style="margin-right:8px"></a>
-  <a href="https://linkedin.com/in/amomsantos" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="28" height="28" style="margin-right:8px"></a>
-  <a href="https://stackoverflow.com/users/19378599/amomsantos07" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="28" height="28" style="margin-right:8px"></a>
-  <a href="https://www.hackerrank.com/amomsantos07" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="28" height="28" style="margin-right:8px"></a>
-  <a href="https://discord.gg/Amom Santos#6294" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="28" height="28" style="margin-right:8px"></a>
+  <a href="https://codepen.io/amomsantos07" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Codepen" width="20" height="20"></a>&nbsp;&nbsp;
+  <a href="https://dev.to/amomsantos07" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" width="20" height="20"></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/amomsantos" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="20" height="20"></a>&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/19378599/amomsantos07" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="20" height="20"></a>&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/amomsantos07" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="20" height="20"></a>&nbsp;&nbsp;
+  <a href="https://discord.gg/Amom Santos#6294" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="20" height="20"></a>
 </p>
+
 
 ---
 
