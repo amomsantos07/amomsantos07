@@ -3,7 +3,7 @@
 
 <!-- photos -->
 <p align="center">
-  <img width="300" src="" alt="">
+  <img width="300" src="https://raw.githubusercontent.com/amomsantos07/amomsantos07/main/familia-devs.gif.png" alt="Familia Devs">
 </p>
 
 <!-- gif animated -->
@@ -21,14 +21,13 @@
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://codepen.io/amomsantos07" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Codepen" width="20" height="20"></a>&nbsp;&nbsp;
-  <a href="https://dev.to/amomsantos07" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" width="20" height="20"></a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/amomsantos" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="20" height="20"></a>&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/19378599/amomsantos07" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="20" height="20"></a>&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/amomsantos07" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="20" height="20"></a>&nbsp;&nbsp;
-  <a href="https://discord.gg/Amom Santos#6294" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="20" height="20"></a>
+  <a href="https://codepen.io/amomsantos07" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen"></a>
+  <a href="https://dev.to/amomsantos07" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to"></a>
+  <a href="https://linkedin.com/in/amomsantos" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn"></a>
+  <a href="https://stackoverflow.com/users/19378599/amomsantos07" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stackoverflow.svg" alt="Stack Overflow"></a>
+  <a href="https://www.hackerrank.com/amomsantos07" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank"></a>
+  <a href="https://discord.gg/Amom Santos#6294" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord"></a>
 </p>
-
 
 ---
 
@@ -62,7 +61,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=amomsantos07&theme=dracula&show_icons=true" alt="GitHub Stats" width="410" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=amomsantos07&theme=dracula&hide_border=false" alt="GitHub Streak" width="434" />
 </p>
-
 
 ---
 
