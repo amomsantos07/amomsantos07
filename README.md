@@ -59,5 +59,51 @@ Desenvolvedor em transição de **Júnior Avançado para Pleno**, especializado 
 | 🎓 **EdTech** | Intermediário | Plataforma de Estudos |
 
 ---
+# Projetos em Destaque
 
-## 🚀 Projetos em Destaque
+## 🏥 Sistema Odontológico Integrado
+**Plataforma completa de gestão odontológica com foco em inovação**
+
+- **Tecnologias:** Next.js 14, React 18, TypeScript, Tailwind CSS
+- **Funcionalidades Principais:**
+  - 📞 Teleconsulta integrada
+  - 🤖 Análise de imagens com IA
+  - 👥 Gestão completa de pacientes
+  - 📊 Histórico de atendimentos
+  - 💬 Notas de consulta estruturadas
+  - 🔍 Recomendações automáticas baseadas em IA
+- **Status:** Em desenvolvimento ativo
+- **Repositório:** [sistema-odontologico-v2](https://github.com/amomsantos07/sistema-odontologico-v2)
+
+---
+
+## 📊 PingPulse Backend
+**Status page com monitoramento em tempo real de serviços e infraestrutura**
+
+- **Propósito:** Monitorar e exibir o status de aplicações em tempo real
+- **Funcionalidades:**
+  - ⚡ Dashboard de monitoramento em tempo real
+  - 📈 Métricas de performance
+  - 🔔 Alertas automáticos
+  - 📱 Interface responsiva
+- **Repositório:** [pingpulse-backend](https://github.com/amomsantos07/pingpulse-backend)
+
+---
+
+## 📚 Plataforma de Estudos para Concursos
+**Plataforma educacional open source para preparação de concursos públicos**
+
+- **Tecnologias:** Next.js 14, TypeScript, Tailwind CSS, PostgreSQL, Supabase, Redis
+- **Funcionalidades:**
+  - 📖 Módulos de estudo estruturados
+  - 🎯 Simulados e questões práticas
+  - 📊 Análise de desempenho
+  - 🔐 Autenticação segura (Keycloak)
+  - 🤖 Recomendações personalizadas (Hugging Face)
+  - 💾 Armazenamento de arquivos (MinIO)
+- **Status:** Em desenvolvimento
+- **Repositório:** [plataforma-estudos-concursos](https://github.com/amomsantos07/plataforma-estudos-concursos)
+
+---
+
+**Todos os projetos utilizam tecnologias modernas e estão em contínuo desenvolvimento.**
