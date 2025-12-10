@@ -1,58 +1,91 @@
-# Welcome to My Professional Profile
+# Amom Santos de Almeida
 
-## 👋 About Me
-
-I'm a dedicated software developer and technology enthusiast with a passion for building robust, scalable applications and solving complex problems. This repository serves as a showcase of my professional work, projects, and contributions to the open-source community.
-
-## 🛠️ Technical Skills
-
-- **Languages:** JavaScript, Python, Java, TypeScript, SQL
-- **Frontend:** React, Vue.js, HTML5, CSS3, Responsive Design
-- **Backend:** Node.js, Express, Django, REST APIs
-- **Databases:** PostgreSQL, MongoDB, MySQL
-- **DevOps & Tools:** Docker, Git, GitHub Actions, CI/CD
-- **Cloud Services:** AWS, Azure, Google Cloud Platform
-- **Other:** Agile Methodologies, Testing & QA, System Design
-
-## 💼 Professional Highlights
-
-- ✅ Full-stack development with modern web technologies
-- ✅ Proven expertise in building scalable microservices
-- ✅ Strong background in agile/scrum environments
-- ✅ Committed to clean code and best practices
-- ✅ Continuous learner and mentor
-
-## 📂 Featured Projects
-
-Explore my repositories to see detailed implementations and contributions across various domains including:
-- Web applications and SaaS platforms
-- Open-source contributions
-- DevOps and infrastructure projects
-- Data analysis and machine learning experiments
-
-## 🎯 What I'm Working On
-
-I'm currently focused on:
-- Advancing my expertise in cloud-native architectures
-- Contributing to meaningful open-source projects
-- Developing scalable solutions for real-world problems
-- Staying current with industry best practices and emerging technologies
-
-## 📬 Get In Touch
-
-I'm always interested in discussing:
-- Collaborative opportunities and partnerships
-- Technical challenges and innovative solutions
-- Mentorship and knowledge sharing
-- Open-source contributions
-
-Feel free to reach out via:
-- **Email:** Check my GitHub profile
-- **LinkedIn:** [Visit my LinkedIn](https://linkedin.com)
-- **GitHub:** [@amomsantos07](https://github.com/amomsantos07)
+**Júnior Avançado → Pleno Iniciante**  
+Full Stack Developer | AI & Security Specialist | LGPD Compliance Expert
 
 ---
 
-**Last Updated:** December 10, 2025
+## 🎯 Objetivo Profissional
 
-Thank you for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out.
+Desenvolvedor em transição de **Júnior Avançado para Pleno**, especializado em: 
+- 🔐 **Segurança & LGPD Compliance** - Implementação de proteção de dados conforme Lei brasileira
+- 🤖 **Inteligência Artificial** - Reconhecimento facial, análise de dados, automação
+- 🏗️ **Full Stack** - Frontend responsivo + Backend robusto + DevOps
+
+**Meta:** Consolidar experiência Pleno em 6 meses através de projetos de impacto mensurável.
+
+---
+
+## 📊 Competências Técnicas
+
+### Proficiência por Linguagem
+
+| Linguagem | Nível | % | Experiência |
+|-----------|-------|---|-------------|
+| **TypeScript** | Avançado | 70% | 2 anos - Frontend & Full Stack |
+| **Python** | Intermediário+ | 65% | 1. 5 anos - Backend & IA |
+| **JavaScript** | Avançado | 70% | 2+ anos - React, Node.js |
+| **Java** | Intermediário | 55% | 1 ano - Microsserviços |
+| **SQL** | Intermediário+ | 65% | 2 anos - PostgreSQL, MySQL |
+
+### Stack Técnico Organizado
+
+#### 🟢 Forte (70%+ de confiança)
+- **Frontend:** React, Next.js, Tailwind CSS, TypeScript
+- **Backend:** Node.js, Express, FastAPI, Python
+- **Databases:** PostgreSQL, MongoDB
+- **DevOps:** Docker, GitHub Actions, Docker Compose
+
+#### 🟡 Intermediário (50-70%)
+- **Cloud:** AWS (EC2, S3), Google Cloud
+- **IA/ML:** OpenAI API, Face Recognition, LLM Integration
+- **Testing:** Jest, Pytest, Mocha
+- **Tools:** Git, GitHub, Figma, Postman
+
+#### 🔵 Estudando (20-50%)
+- Rust (Performance crítico)
+- GraphQL (Consultas otimizadas)
+- Kubernetes (Orquestração em escala)
+- Machine Learning avançado
+
+### Domínios de Expertise
+
+| Domínio | Proficiência | Projetos |
+|---------|--------------|----------|
+| 🏥 **Healthcare** | Avançado | Sistema Odontológico, Telemedicina |
+| 🔐 **Security** | Avançado | LGPD Compliance, Access Control |
+| 👁️ **Computer Vision** | Intermediário+ | Facial Recognition, Image Analysis |
+| 📊 **Data & Analytics** | Intermediário | Estudos para Concursos, Dashboards |
+| 🎓 **EdTech** | Intermediário | Plataforma de Estudos |
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 1. **Patio-Producao** - Sistema de Controle de Inventário
+📌 **Status:** Produção | 🔗 [Ver Repositório](https://github.com/amomsantos07/patio-producao)
+
+**O que é:**  
+Sistema completo para controle de estoque, movimentação e rastreamento de produtos com cadeia de custódia integrada.
+
+**Tech Stack:**
+- Frontend: React + TypeScript + Tailwind CSS
+- Backend:  Python + FastAPI + SQLModel
+- Banco:  PostgreSQL + Redis
+- Deploy: Docker Compose
+
+**Impacto Mensurável:**
+- ✅ **Reduz tempo de contagem em 35-40%** (era 4h, agora 2. 5h)
+- ✅ **99.8% acurácia** no rastreamento de produtos
+- ✅ **22+ endpoints API** documentados
+- ✅ **LGPD compliant** com audit logs completos
+- ✅ **Processamento em lote** (50+ produtos/minuto)
+
+**Recursos Principais:**
+- Dashboard em tempo real com WebSockets
+- Rastreamento completo (Chain of Custody)
+- Sistema de alertas para divergências
+- Relatórios automáticos em PDF
+- Integração com sistemas legados
+
+**Arquitetura:**
