@@ -1,6 +1,6 @@
 # Amom Santos de Almeida
 
-**Júnior Avançado → Pleno Iniciante**  
+****  
 Full Stack Developer | AI & Security Specialist | LGPD Compliance Expert
 
 ---
