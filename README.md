@@ -7,7 +7,7 @@ Full Stack Developer | AI & Security Specialist | LGPD Compliance Expert
 
 ## 🎯 Objetivo Profissional
 
-Desenvolvedor em transição de **Júnior Avançado para Pleno**, especializado em: 
+Desenvolvedor, especializado em: 
 - 🔐 **Segurança & LGPD Compliance** - Implementação de proteção de dados conforme Lei brasileira
 - 🤖 **Inteligência Artificial** - Reconhecimento facial, análise de dados, automação
 - 🏗️ **Full Stack** - Frontend responsivo + Backend robusto + DevOps
